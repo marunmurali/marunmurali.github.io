@@ -26,18 +26,6 @@
                 href="http://marunmurali.github.io/jp/categories/"
                 />
   </url><url>
-    <loc>http://marunmurali.github.io/jp/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://marunmurali.github.io/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="jp"
-                href="http://marunmurali.github.io/jp/"
-                />
-  </url><url>
     <loc>http://marunmurali.github.io/jp/series/</loc>
     <xhtml:link
                 rel="alternate"
@@ -60,6 +48,18 @@
                 rel="alternate"
                 hreflang="jp"
                 href="http://marunmurali.github.io/jp/tags/"
+                />
+  </url><url>
+    <loc>http://marunmurali.github.io/jp/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://marunmurali.github.io/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="jp"
+                href="http://marunmurali.github.io/jp/"
                 />
   </url>
 </urlset>
