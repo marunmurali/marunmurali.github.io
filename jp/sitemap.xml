@@ -2,64 +2,64 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://marunmurali.github.io/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="jp"
-                href="http://marunmurali.github.io/jp/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://marunmurali.github.io/"
-                />
-  </url><url>
-    <loc>http://marunmurali.github.io/authors/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="jp"
-                href="http://marunmurali.github.io/jp/authors/"
-                />
+    <loc>http://marunmurali.github.io/jp/authors/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
                 href="http://marunmurali.github.io/authors/"
                 />
-  </url><url>
-    <loc>http://marunmurali.github.io/categories/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="jp"
-                href="http://marunmurali.github.io/jp/categories/"
+                href="http://marunmurali.github.io/jp/authors/"
                 />
+  </url><url>
+    <loc>http://marunmurali.github.io/jp/categories/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
                 href="http://marunmurali.github.io/categories/"
                 />
-  </url><url>
-    <loc>http://marunmurali.github.io/series/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="jp"
-                href="http://marunmurali.github.io/jp/series/"
+                href="http://marunmurali.github.io/jp/categories/"
                 />
+  </url><url>
+    <loc>http://marunmurali.github.io/jp/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://marunmurali.github.io/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="jp"
+                href="http://marunmurali.github.io/jp/"
+                />
+  </url><url>
+    <loc>http://marunmurali.github.io/jp/series/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
                 href="http://marunmurali.github.io/series/"
                 />
-  </url><url>
-    <loc>http://marunmurali.github.io/tags/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="jp"
-                href="http://marunmurali.github.io/jp/tags/"
+                href="http://marunmurali.github.io/jp/series/"
                 />
+  </url><url>
+    <loc>http://marunmurali.github.io/jp/tags/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
                 href="http://marunmurali.github.io/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="jp"
+                href="http://marunmurali.github.io/jp/tags/"
                 />
   </url>
 </urlset>
